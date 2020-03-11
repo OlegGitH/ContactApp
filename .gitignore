@@ -1,4 +1,12 @@
+# Created by https://www.gitignore.io/api/java,maven,visualstudiocode
+# Edit at https://www.gitignore.io/?templates=java,maven,visualstudiocode
+
+### Java ###
+# Compiled class file
 .idea
+# Settings file
 .settings
+#iml
 contacts.xml
 ContactApp.iml
+# End of https://www.gitignore.io/api/java,maven,
